@@ -1,0 +1,24 @@
+
+[
+    {
+        "id": 1,
+        "nombre": "Drop Box",
+        "categoria": "Suspenso",
+        "descripcion": "Actriz principal Sandra Bullock",
+        "fecha": "2024-11-19T06:00:00.000Z"
+    },
+    {
+        "id": 3,
+        "nombre": "No mires atrás",
+        "categoria": "Ficción",
+        "descripcion": "Actriz principal Julia Roberts", 
+        "fecha": "2024-11-14T06:00:00.000Z"
+    },
+    {
+    "id": 4,
+    "nombre": "La casa de papel",
+    "categoria": "Drama",
+    "descripcion": "Origen Español",
+    "fecha": "2024-11-18T06:00:00.000Z"
+    }
+]
